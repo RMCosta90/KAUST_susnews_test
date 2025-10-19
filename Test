@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KAUST 2024 Arts & Culture Highlights</title>
+  <meta name="description" content="A summary of KAUST's arts and culture programming in 2024, aligned with Vision 2030 and SDG 11." />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="KAUST 2024 Arts & Culture Highlights" />
+  <meta property="og:description" content="A summary of KAUST's arts and culture programming in 2024, aligned with Vision 2030 and SDG 11." />
+  <meta property="og:type" content="article" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Minimal styles for readability -->
+  <style>
+    :root { --maxw: 860px; }
+    html { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; }
+    body { margin: 0; padding: 2rem; background: #f9fafb; color: #0f172a; }
+    main { margin: 0 auto; max-width: var(--maxw); background: #ffffff; padding: 2rem; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+    h1 { line-height: 1.2; margin-top: 0; }
+    p { margin: 1rem 0; }
+    a { color: #0b5fff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .meta { font-size: .95rem; color: #475569; }
+    footer { margin-top: 2rem; font-size: .9rem; color: #475569; }
+  </style>
+
+  <!-- Structured data to help validators (schema.org NewsArticle) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "KAUST 2024 Arts & Culture Highlights",
+    "datePublished": "2024-12-31",
+    "dateModified": "2024-12-31",
+    "inLanguage": "en",
+    "author": { "@type": "Organization", "name": "KAUST" },
+    "publisher": { "@type": "Organization", "name": "KAUST" },
+    "about": [
+      "Vision 2030",
+      "SDG 11",
+      "Arts and Culture",
+      "Saudi Arabia",
+      "KAUST"
+    ],
+    "articleSection": "Community & Culture",
+    "keywords": ["KAUST", "Vision 2030", "SDG 11", "Arts", "Culture", "Heritage"]
+  }
+  </script>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>KAUST 2024 Arts &amp; Culture Highlights</h1>
+      <p class="meta">Aligned with Saudi Arabia’s Vision 2030 (Vibrant Society) and SDG 11.</p>
+    </header>
+
+    <article>
+      <p>Saudi Arabia’s Vision 2030 envisions a <strong>Vibrant Society</strong> where arts, culture and entertainment enrich people’s lives, celebrate national identity and contribute to economic diversification. This pillar has spurred a cultural renaissance in the country, with investments in museums, heritage districts and creative industries alongside a new Ministry of Culture. The surge of festivals, exhibitions and performances reflects the country’s ambition to become a global cultural hub, while Sustainable Development Goal 11 reminds us that preserving cultural heritage and promoting inclusive, safe public spaces are essential for sustainable urban development. Within this evolving landscape, KAUST continues to support national priorities by creating opportunities for local communities to explore artistic expression and cultural events, both in and out of its campus.</p>
+
+      <p>Throughout 2024, KAUST delivered over 30 distinct arts and culture events, from performances and festivals to art and heritage exhibitions and workshops, showcasing both local and international talent. In the music space, <a href="https://thelens.kaust.edu.sa/music-outdoors-office-of-the-arts-presents-masoud-alaseris-trio/" target="_blank" rel="noopener">Music Outdoors</a> concert blended traditional qanun with modern instrumentation, while the <a href="https://thelens.kaust.edu.sa/?s=Sunset+Concert+2024" target="_blank" rel="noopener">Sunset Concerts</a> mixed classical repertoire with beatboxing and rap. <a href="https://thelens.kaust.edu.sa/?s=recital+2024" target="_blank" rel="noopener">Community recitals</a> celebrated classical Arabic and Turkish music, jazz, rock and world music, and a recital for the Music Tutoring Program allowed students of all ages to perform pieces they had studied. Signature events such as the <a href="https://thelens.kaust.edu.sa/get-ready-for-the-2024-parade-of-nations/" target="_blank" rel="noopener"><strong>Parade of Nations</strong></a>, with its mix of live performances, global cuisine, and crafts, brought together residents from 119 nationalities and turned KAUST’s stadium into a hub of cultural exchange. The year also included the <a href="https://thelens.kaust.edu.sa/congratulations-to-the-winners-of-kaust-got-talent-2024/" target="_blank" rel="noopener">KAUST Got Talent</a>, a community talent show open to employees and adult residents, a DJ party, and The KAUST School’s very own <a href="https://cc.kaust.edu.sa/news/detail/2024/11/10/the-kaust-school-presents-oliver!-jr.-the-musical" target="_blank" rel="noopener">school musical</a> that mobilized over 120 students and crew members.</p>
+
+      <p>For KAUST’s own celebrations of <a href="https://thelens.kaust.edu.sa/save-the-date-saudi-national-day-celebrations/" target="_blank" rel="noopener">Saudi National Day</a> and <a href="https://thelens.kaust.edu.sa/saudi-founding-day-celebration-2024/" target="_blank" rel="noopener">Saudi Founding Day</a>, the community gathered at the Thuwal corniche in the nearby local village adjacent to KAUST, further fostering cultural exchange. The program highlighted time-honored performances that showcase the Kingdom’s cultural richness: the stately Ardah, a group sword dance from the Arabian Peninsula; the spirited Mezmar, a Hejazi stick dance with vibrant call-and-response rhythms; the melodic Khobayti, a Hejazi music style with lively, inviting beats; and Al-Khatwa, a southern folk dance known for synchronized stomping. Each performance illuminated a distinct regional heritage while bringing neighbors and the KAUST community together in shared celebration.</p>
+
+      <p>Exhibitions and visual arts experiences were also abundant. The Office of the Arts curated exhibitions that spanned heritage and contemporary practice. The solo show <a href="https://thelens.kaust.edu.sa/the-office-of-the-arts-presents-semantic-systems-a-solo-exhibition-by-rashed-alshashai/" target="_blank" rel="noopener">Semantic Systems</a> by Rashed AlShashai explored conceptual structures and patterns. The arts program also featured the pop-up exhibition <a href="https://thelens.kaust.edu.sa/pop-up-art-exhibition-lightscapes-of-the-night/" target="_blank" rel="noopener">Lightscapes of the Night</a>—showcasing Nelson Ferreira’s pigment-free “PlatiGleam” works experienced in darkness—alongside <a href="https://thelens.kaust.edu.sa/woven-legacies-rare-antique-rugs-and-islamic-art-treasures-along-the-silk-road/" target="_blank" rel="noopener">Woven Legacies: Rare Antique Rugs and Islamic Art Treasures Along the Silk Road</a> at the University Library. There were also hands-on workshops such as <a href="https://thelens.kaust.edu.sa/the-art-and-language-of-geometry-islamic-patterns-on-the-loom/" target="_blank" rel="noopener">The Art and Language of Geometry: Islamic Patterns on the Loom</a>, and the lecture <a href="https://thelens.kaust.edu.sa/the-man-behind-the-carpet-dynasty/" target="_blank" rel="noopener">The Man Behind the Carpet Dynasty</a> with carpet art expert Mohamed Maktabi. Beyond campus, <a href="https://www.kaust.edu.sa/en/news/drawing-inspiration-from-the-red-sea" target="_blank" rel="noopener">KAUST collaborated with Filipino-Dutch artist Martha Atienza</a> on a mangrove-themed installation for the Diriyah Contemporary Art Biennale; the artist worked with Thuwal fishermen, incorporated donated mangrove seedlings, and highlighted coastal ecosystems. Together, these events enriched the community’s understanding of regional heritage and contemporary artistic innovation.</p>
+
+      <p>Extending beyond exhibitions and performances, a strong educational component underpinned the community’s arts agenda. Community Development offered beginner courses in <a href="https://thelens.kaust.edu.sa/embroidery-workshop-community-development-workshops-2/" target="_blank" rel="noopener">embroidery</a>, <a href="https://thelens.kaust.edu.sa/beginner-sewing-workshop-community-development-workshops/" target="_blank" rel="noopener">sewing</a> and <a href="https://thelens.kaust.edu.sa/stitch-club-finger-knitting-night-2/" target="_blank" rel="noopener">knitting/crochet</a>, teaching participants basic techniques and providing all necessary materials. The Art Club opened its studios for six different classes—oil painting, acrylic painting, ceramics, Arabic calligraphy, clay polymer modeling, and kids’ art—giving community members access to professional instruction and creative space. Sustainability and creativity converged in a series of <a href="https://thelens.kaust.edu.sa/coasters-and-jewelry-workshop-2/" target="_blank" rel="noopener">Precious Plastic workshops</a> where participants sorted discarded plastics and transformed them into coasters, jewellery and keychains.</p>
+
+      <p>This comprehensive programme not only provided entertainment but also developed artistic skills, promoted heritage awareness, and celebrated cultural diversity within and beyond KAUST walls. By aligning its activities with Saudi Arabia’s broader vision for a vibrant society and contributing to SDG 11’s call to preserve heritage, KAUST demonstrated how academic institutions can be catalysts for social development and creative expression in the Kingdom’s evolving cultural landscape.</p>
+    </article>
+
+    <footer>
+      <p>© 2024 KAUST — Community &amp; Culture</p>
+    </footer>
+  </main>
+</body>
+</html>
