@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KAUST News 2</title>
+  <meta name="description" content="KAUST News Piece" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="KAUST News" />
+  <meta property="og:description" content="KAUST News" />
+  <meta property="og:type" content="article" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Minimal styles for readability -->
+  <style>
+    :root { --maxw: 860px; }
+    html { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; }
+    body { margin: 0; padding: 2rem; background: #f9fafb; color: #0f172a; }
+    main { margin: 0 auto; max-width: var(--maxw); background: #ffffff; padding: 2rem; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,.06); }
+    h1 { line-height: 1.2; margin-top: 0; }
+    p { margin: 1rem 0; }
+    a { color: #0b5fff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .meta { font-size: .95rem; color: #475569; }
+    footer { margin-top: 2rem; font-size: .9rem; color: #475569; }
+  </style>
+
+  <!-- Structured data to help validators (schema.org NewsArticle) -->
+ 
+</head>
+<body>
+  <main>
+    <header>
+      <h1> KAUST News 3</h1>
+    </header>
+
+    <article>
+    <p>Saudi Arabia’s Vision 2030 calls for vibrant, inclusive, and sustainable cities—places where economic growth and social well-being are harmonized through innovation, resilience, and access to affordable housing. In parallel, the United Nations Sustainable Development Goal 11—<strong>Sustainable Cities and Communities</strong>—urges nations to make cities inclusive, safe, resilient, and sustainable. At the intersection of these ambitions, KAUST is working hand in hand with local authorities to translate cutting-edge research into tangible improvements in urban planning and housing development.</p>
+
+<p>Throughout 2024, KAUST has strengthened its role as a scientific partner for cities and municipalities across the Kingdom. One such effort is the University’s partnership with the <a href="https://www.kaust.edu.sa/en/news/kaust-shares-smart-city-tech-with-medina#:~:text=Thuwal%2C%20Saudi%20Arabia%2C%20February%2012%2C,Saudi%20Arabia%2C%20for%20the%20future" target="_blank" rel="noopener">Al-Madinah Region Development Authority</a>, which integrates data-driven tools such as climate projections, flood-risk models, and land-suitability mapping into city-planning processes. These insights allow local authorities to anticipate environmental risks, protect vulnerable communities, and identify optimal zones for housing and infrastructure. The result is a planning ecosystem where affordability and safety reinforce each other—by reducing exposure to disasters, lowering long-term maintenance costs, and exploring smart technologies, cities can allocate resources more effectively to create urban areas that remain accessible to their residents.</p>
+
+<p>Complementing these collaborations, KAUST research is also contributing to the national dialogue on green infrastructure and climate-resilient urban design. Studies spearheaded by the Urban Lab on reflective urban surfaces, adaptive landscaping, and microclimate modeling demonstrate how integrating nature-based solutions into city planning can lower temperatures, enhance livability, and reduce building energy demand. By embedding such approaches into municipal development frameworks, this research provides local authorities with practical pathways to create cooler, more resilient, and cost-efficient neighborhoods—ensuring that affordable housing and climate adaptation advance hand in hand.</p>
+
+<p>The <a href="https://urbanlab.kaust.edu.sa/" target="_blank" rel="noopener">Urban Lab</a> extends this scientific support through continuous engagement with planners, ministries, and private-sector developers to address complex urban challenges—from land-use optimization to infrastructure efficiency and resilience. This collaboration aims to ensure that every new development is grounded in science, guided by sustainability, and designed for people. The Lab also provides training and consulting services to municipalities, building the technical capacity to embed sustainability principles into policy and design.</p>
+
+<p>To promote local capacity building and cross-sectoral dialogue, it has organized multiple workshops, from <a href="https://urbanlab.kaust.edu.sa/events/event-detail/2024/01/09/default-calendar/decarbonization-of-the-concrete-supply-chain" target="_blank" rel="noopener">decarbonizing the concrete supply chain</a> to <a href="https://urbanlab.kaust.edu.sa/events/event-detail/2024/09/04/default-calendar/building-a-national-inventory-for-life-cycle-assessment" target="_blank" rel="noopener">building a national life cycle assessment inventory</a>—empowering engineers and decision-makers to select low-carbon, cost-efficient materials and directly linking environmental performance to economic affordability in the construction of housing and public infrastructure. One of these events, delivered in partnership with the UN Environment Programme Life Cycle Initiative, promoted dialogue on standardized assessment methods that can support fairer, more sustainable housing policies across the Kingdom.</p>
+
+<p>This continuous dialogue between research and practice defines KAUST’s role as a convener in Saudi Arabia’s urban development landscape—creating cross-sector platforms where researchers, municipal leaders, and industry experts collaboratively shape planning strategies. These partnerships ensure that local decisions are informed by evidence, bridging the gap between science and policy to build communities that are affordable not only in construction cost but also in long-term energy use, environmental impact, and quality of life.</p>
+
+<p>By empowering local authorities with data, training, and practical tools, KAUST is helping Saudi cities plan for inclusive growth while safeguarding people and ecosystems. These science–policy collaborations are positioning the Kingdom as a regional model for sustainable urban transformation, proving that cooperation is the foundation for resilient and affordable communities.</p>
+
+    </article>
+
+    <footer>
+    </footer>
+  </main>
+</body>
+</html>
