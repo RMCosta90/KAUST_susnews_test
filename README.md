@@ -23,8 +23,8 @@ Prompt:
 
   Convert the following text into clean, production-ready HTML:
   Requirements:
-  Preserve paragraph structure as "<p>…</p>".
-  Convert link text to <a href="…" target="_blank" rel="noopener">link text</a>.
+  Preserve paragraph structure as p ... /p'.
+  Convert link text to `<a href="…" target="_blank" rel="noopener">link text</a>`
   Do not add inline CSS or extra wrappers.
   Keep only semantic HTML (p, strong, a).
   Return ONLY the HTML snippet — no extra commentary.
