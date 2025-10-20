@@ -51,7 +51,7 @@ ChatGPT will return an HTML snippet you can copy directly into `index.html`.
 ---
 
 ### **5️⃣ Done!**
-The page https://rmcosta90.github.io/KAUST_susnews_test/ will automatically update.
+The page https://rmcosta90.github.io/KAUST_susnews_test/[pagename] will automatically update.
 
 ---
 
