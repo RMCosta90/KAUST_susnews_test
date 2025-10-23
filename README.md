@@ -1,7 +1,11 @@
-# 🏗️ How to Update the Text in `index.html`
+# 🏗️ How to Update the Text in `.html` files
 
 Welcome to the **KAUST_susnews_test** repository!  
-This guide explains how to update the text content inside the website’s **index.html** file — no need to keep outputs or create new files. We reuse and overwrite the same file each time.
+This guide explains how to update the text content inside the website’s **.html** files — Each should reuse and overwrite the same file each time.
+
+Ruben - index
+Ines - page2
+Ghaala page3
 
 ---
 
@@ -9,7 +13,7 @@ This guide explains how to update the text content inside the website’s **inde
 
 ### **1️⃣ Open the file on GitHub**
 1. Go to the repo: **KAUST_susnews_test**  
-2. Click on the file: **`index.html`**  
+2. Click on the file: **`.html`**  
 3. In the top-right corner, click the ✏️ **Edit this file** button.
 
 ---
@@ -55,8 +59,7 @@ The page https://rmcosta90.github.io/KAUST_susnews_test/[pagename] will automati
 
 ---
 
-## 💡 Quick Tips
-- Always edit **`index.html`**, not a copy.  
+## 💡 Quick Tips 
 - Each update replaces the previous text entirely.  
 - Use proper HTML tag pairs (`<p>` and `</p>`, `<strong>` and `</strong>`).  
 - Keep all external links safe with `target="_blank"` and `rel="noopener"`.  
